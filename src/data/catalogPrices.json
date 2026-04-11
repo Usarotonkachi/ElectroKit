@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "region": "Москва, ориентир розница",
+    "note": "Условные цены для сметы в приложении"
+  },
+  "mcb": {
+    "c6-1p": { "priceRub": 420 },
+    "c10-1p": { "priceRub": 450 },
+    "c16-1p": { "priceRub": 490 },
+    "c20-1p": { "priceRub": 520 },
+    "c25-1p": { "priceRub": 560 },
+    "c32-1p": { "priceRub": 610 },
+    "c40-1p": { "priceRub": 660 },
+    "c50-1p": { "priceRub": 780 },
+    "c63-1p": { "priceRub": 920 },
+    "c6-3p": { "priceRub": 1180 },
+    "c10-3p": { "priceRub": 1280 },
+    "c16-3p": { "priceRub": 1680 },
+    "c20-3p": { "priceRub": 1820 },
+    "c25-3p": { "priceRub": 2080 },
+    "c32-3p": { "priceRub": 2380 },
+    "c40-3p": { "priceRub": 2720 },
+    "c50-3p": { "priceRub": 3180 },
+    "c63-3p": { "priceRub": 3780 }
+  },
+  "rcd": {
+    "25-2p-10": { "priceRub": 2320 },
+    "25-2p-30": { "priceRub": 1920 },
+    "40-2p-30": { "priceRub": 2150 },
+    "63-2p-30": { "priceRub": 2680 },
+    "40-2p-100": { "priceRub": 2480 },
+    "63-2p-100": { "priceRub": 2920 },
+    "63-2p-300": { "priceRub": 3180 }
+  },
+  "cablePerMeter": {
+    "vvgng-3x1.5-cu": { "priceRub": 78 },
+    "vvgng-3x2.5-cu": { "priceRub": 105 },
+    "vvgng-3x4-cu": { "priceRub": 158 },
+    "vvgng-3x6-cu": { "priceRub": 212 },
+    "vvgng-3x10-cu": { "priceRub": 345 },
+    "vvgng-3x16-cu": { "priceRub": 525 },
+    "vvgng-3x25-cu": { "priceRub": 825 },
+    "vvgng-3x35-cu": { "priceRub": 1140 },
+    "vvgng-5x1.5-cu": { "priceRub": 128 },
+    "vvgng-5x2.5-cu": { "priceRub": 188 },
+    "vvgng-5x4-cu": { "priceRub": 275 },
+    "vvgng-5x6-cu": { "priceRub": 368 },
+    "vvgng-5x10-cu": { "priceRub": 595 },
+    "vvgng-5x16-cu": { "priceRub": 955 },
+    "vvgng-5x25-cu": { "priceRub": 1490 },
+    "vvgng-5x35-cu": { "priceRub": 2060 },
+    "sip-2x16-al": { "priceRub": 88 },
+    "sip-2x25-al": { "priceRub": 126 },
+    "sip-2x35-al": { "priceRub": 176 },
+    "sip-2x50-al": { "priceRub": 248 },
+    "sip-2x70-al": { "priceRub": 342 },
+    "sip-2x95-al": { "priceRub": 458 }
+  }
+}

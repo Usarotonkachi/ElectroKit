@@ -1,0 +1,200 @@
+[
+  {
+    "id": "iek-armat-mcb-6-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 6,
+    "poleCount": 1,
+    "price": 420
+  },
+  {
+    "id": "iek-armat-mcb-10-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 10,
+    "poleCount": 1,
+    "price": 450
+  },
+  {
+    "id": "iek-armat-mcb-16-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 16,
+    "poleCount": 1,
+    "price": 480
+  },
+  {
+    "id": "iek-armat-mcb-20-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 20,
+    "poleCount": 1,
+    "price": 510
+  },
+  {
+    "id": "iek-armat-mcb-25-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 25,
+    "poleCount": 1,
+    "price": 540
+  },
+  {
+    "id": "iek-armat-mcb-32-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 32,
+    "poleCount": 1,
+    "price": 580
+  },
+  {
+    "id": "iek-armat-mcb-40-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 40,
+    "poleCount": 1,
+    "price": 620
+  },
+  {
+    "id": "iek-armat-mcb-50-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 50,
+    "poleCount": 1,
+    "price": 720
+  },
+  {
+    "id": "iek-armat-mcb-63-1p",
+    "brand": "IEK",
+    "series": "ARMAT",
+    "type": "MCB",
+    "nominal": 63,
+    "poleCount": 1,
+    "price": 850
+  },
+  {
+    "id": "iek-karat-rcd-25-2p-30",
+    "brand": "IEK",
+    "series": "KARAT",
+    "type": "RCD",
+    "nominal": 25,
+    "poleCount": 2,
+    "price": 1850,
+    "sensitivityMa": 30
+  },
+  {
+    "id": "iek-karat-rcd-40-2p-30",
+    "brand": "IEK",
+    "series": "KARAT",
+    "type": "RCD",
+    "nominal": 40,
+    "poleCount": 2,
+    "price": 2100,
+    "sensitivityMa": 30
+  },
+  {
+    "id": "iek-karat-rcd-25-2p-10",
+    "brand": "IEK",
+    "series": "KARAT",
+    "type": "RCD",
+    "nominal": 25,
+    "poleCount": 2,
+    "price": 2200,
+    "sensitivityMa": 10
+  },
+  {
+    "id": "iek-karat-rcd-40-2p-100",
+    "brand": "IEK",
+    "series": "KARAT",
+    "type": "RCD",
+    "nominal": 40,
+    "poleCount": 2,
+    "price": 2480,
+    "sensitivityMa": 100
+  },
+  {
+    "id": "iek-karat-rcd-63-2p-100",
+    "brand": "IEK",
+    "series": "KARAT",
+    "type": "RCD",
+    "nominal": 63,
+    "poleCount": 2,
+    "price": 2920,
+    "sensitivityMa": 100
+  },
+  {
+    "id": "iek-karat-rcd-63-2p-300",
+    "brand": "IEK",
+    "series": "KARAT",
+    "type": "RCD",
+    "nominal": 63,
+    "poleCount": 2,
+    "price": 3180,
+    "sensitivityMa": 300
+  },
+  {
+    "id": "ekf-averes-mcb-10-1p",
+    "brand": "EKF",
+    "series": "Averes",
+    "type": "MCB",
+    "nominal": 10,
+    "poleCount": 1,
+    "price": 390
+  },
+  {
+    "id": "ekf-averes-mcb-16-1p",
+    "brand": "EKF",
+    "series": "Averes",
+    "type": "MCB",
+    "nominal": 16,
+    "poleCount": 1,
+    "price": 410
+  },
+  {
+    "id": "ekf-averes-mcb-25-1p",
+    "brand": "EKF",
+    "series": "Averes",
+    "type": "MCB",
+    "nominal": 25,
+    "poleCount": 1,
+    "price": 450
+  },
+  {
+    "id": "ekf-averes-rcd-40-2p-30",
+    "brand": "EKF",
+    "series": "Averes",
+    "type": "RCD",
+    "nominal": 40,
+    "poleCount": 2,
+    "price": 1980,
+    "sensitivityMa": 30
+  },
+  {
+    "id": "ekf-proxima-rcbo-16-1pn-30",
+    "brand": "EKF",
+    "series": "PROxima",
+    "type": "RCBO",
+    "nominal": 16,
+    "poleCount": 1,
+    "price": 3200,
+    "sensitivityMa": 30
+  },
+  {
+    "id": "ekf-proxima-rcbo-25-1pn-30",
+    "brand": "EKF",
+    "series": "PROxima",
+    "type": "RCBO",
+    "nominal": 25,
+    "poleCount": 1,
+    "price": 3450,
+    "sensitivityMa": 30
+  }
+]
